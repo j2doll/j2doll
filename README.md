@@ -20,16 +20,13 @@ Here are some ideas to get you started:
 
 - :mailbox: Leave me a issue. :kr: 이슈 남겨 주세요. 
   - https://github.com/j2doll/discussion/issues
-  - **I can not speak english well. Please speak very, very easy English.** :monkey:
-
-- Here are the personal private issue repository that you would like to talk to me.
-  - :kr: 개인적인 이슈를 남겨 주세요.
+  - I can not speak english well. Please speak very, very easy English. :monkey:
 
 - 💬 Please write the issues for public projects in the public project issues. 
    - :kr: 공개 프로젝트의 이슈는 해당 프로젝트의 이슈란에 적어 주세요. 
 
 - Personal introduction page : https://j2doll.github.io/
-  - :kr: 개인 소개 페이지 : https://j2doll.github.io/README.ko.html
+  - :kr: 개인 소개 페이지(한글) : https://j2doll.github.io/README.ko.html
   
 - Blog(Korean) :kr: 블로그(한글) : https://j2doll.tistory.com/
 
