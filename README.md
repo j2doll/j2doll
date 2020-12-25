@@ -1,6 +1,7 @@
 # Hi there 👋
 
 <!--
+
 **j2doll/j2doll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 - :monkey: Hi! My alias name is j2doll. (aka Jay Two)
@@ -24,11 +26,14 @@ Here are some ideas to get you started:
 
 - 💬 Please write the issues for public projects in the public project issues. 
    - :kr: 공개 프로젝트의 이슈는 해당 프로젝트의 이슈란에 적어 주세요. 
+   
+- 🔭 The open source team I'm working on is: :kr: 제가 진행 중인 오픈소스 팀은 다음과 같습니다:
+  - QtExcel : https://github.com/QtExcel
+  - Jay Two's Lab : https://github.com/JayTwoLab
 
 - Personal introduction page : https://j2doll.github.io/
   - :kr: 개인 소개 페이지(한글) : https://j2doll.github.io/README.ko.html
-  
-- Blog(Korean) :kr: 블로그(한글) : https://j2doll.tistory.com/
+  - Blog(Korean) :kr: 블로그(한글) : https://j2doll.tistory.com/
 
 - :kr: Qt Forum Korean에서 만나요! See you at Qt Forum Korean!
   - https://forum.qt.io/category/59/korean
