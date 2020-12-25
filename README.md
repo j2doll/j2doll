@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   - :kr: 개인 소개 페이지(한글) : https://j2doll.github.io/README.ko.html
   - Blog(Korean) :kr: 블로그(한글) : https://j2doll.tistory.com/
 
-- :kr: Qt Forum Korean에서 만나요! See you at Qt Forum Korean!
+- (Korean) :kr: 한국어 Qt 포럼에서 만나요! See you at Qt Forum Korean!
   - https://forum.qt.io/category/59/korean
 
 - Sponsor :kr: 후원
