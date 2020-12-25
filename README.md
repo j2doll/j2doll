@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 
 -->
 
-- :monkey: Hi! My alias name is j2doll. (aka Jay Two)
+- :monkey: Hi! My alias name is j2doll. (aka Jay Two) :kr: 안녕하세요! 제 별칭은 Jay Two 입니다.
   - My name is Korean, and it is not easy for foreigners to pronounce it. So I recommend you call me Jay Two. 
 
 - :mailbox: Leave me a issue. :kr: 이슈 남겨 주세요. 
   - https://github.com/j2doll/discussion/issues
   - I can not speak english well. Please speak very, very easy English. :monkey:
-
-- 💬 Please write the issues for public projects in the public project issues. 
-   - :kr: 공개 프로젝트의 이슈는 해당 프로젝트의 이슈란에 적어 주세요. 
+  - 💬 Please write the issues for public projects in the public project issues. 
+    - :kr: 공개 프로젝트의 이슈는 해당 프로젝트의 이슈란에 적어 주세요. 
    
 - 🔭 The open source team I'm working on is: :kr: 제가 진행 중인 오픈소스 팀은 다음과 같습니다:
   - QtExcel : https://github.com/QtExcel
