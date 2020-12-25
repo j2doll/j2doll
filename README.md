@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 💬 (Korean) :kr: 블로그에 방명록을 남겨 주세요. 공개하기 싫은 글은 비밀댓글로 남겨 주세요.
    - https://j2doll.tistory.com/guestbook
 
-- 💬 (Korean) :kr: 한국어 Qt 포럼에서 만나요! See you at Qt Forum Korean!
+- 💬 (Korean) :kr: 한국어 Qt 포럼에서 만나요! 
   - https://forum.qt.io/category/59/korean
 
 ## Sponsor :kr: 후원
