@@ -50,4 +50,5 @@ Here are some ideas to get you started:
   - I am currently earning income for a commercial project. I'm looking forward to your patronage so that I can be more concerned with open source projects.
   - :kr: 저는 현재 상업적인 프로젝트로 수입을 얻고 있습니다. 제가 오픈소스 프로젝트에 좀더 신경을 쓸 수 있도록, 당신의 후원을 부탁드릴께요.
     - https://www.patreon.com/j2doll
+    - https://www.buymeacoffee.com/Yukrf5X
 
