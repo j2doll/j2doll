@@ -24,6 +24,9 @@ Here are some ideas to get you started:
    
 - 🔭 The open source team I'm working on is: :kr: 제가 진행 중인 오픈소스 팀은 다음과 같습니다:
   - **QtExcel** : https://github.com/QtExcel
+
+    <img src="https://raw.githubusercontent.com/QtExcel/QXlsx/master/markdown.data/QXlsx-Desktop.png" />
+
   - **Jay Two's Lab** : https://github.com/JayTwoLab
 
 ## Introduction :kr: 소개
