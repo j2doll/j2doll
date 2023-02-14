@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ## Introduction :kr: 소개
 
-- Personal introduction page(English) : https://j2doll.github.io/
-  - :kr: 개인 소개 페이지(한글) : https://j2doll.github.io/README.ko.html
+- Personal introduction page(English) : https://j2doll.github.io/whoami
+  - :kr: 개인 소개 페이지(한글) : https://j2doll.github.io/whoami/README.ko.html
   - Blog(Korean) :kr: 블로그(한글) : https://j2doll.tistory.com/
 
 ## Contact :kr: 연락처
