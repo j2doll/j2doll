@@ -52,5 +52,8 @@ Here are some ideas to get you started:
 ## Sponsor <img src="https://gist.github.com/j2doll/9f827711ba8b832d974a4f8e377bcf5a/raw/b6b323746310f5d98ae133148b7cba8f273505b3/kr.png" /> ```후원```
   - I am currently earning income for a commercial project. I'm looking forward to your patronage so that I can be more concerned with open source projects.
   - <img src="https://gist.github.com/j2doll/9f827711ba8b832d974a4f8e377bcf5a/raw/b6b323746310f5d98ae133148b7cba8f273505b3/kr.png" /> ```저는 현재 상업적인 프로젝트로 수입을 얻고 있습니다. 제가 오픈소스 프로젝트에 좀더 신경을 쓸 수 있도록, 당신의 후원을 부탁드릴께요.```
-    - https://github.com/sponsors/j2doll
-    - https://www.patreon.com/j2doll
+    - github https://github.com/sponsors/j2doll
+    - patreon https://www.patreon.com/j2doll
+    - ko-fi https://ko-fi.com/j2doll
+    - KakaoPay https://qr.kakaopay.com/FDVr2xBHP
+    <img src="https://gist.github.com/j2doll/8da2c94c766be8b066c8edc0ccc37a10/raw/d0c33cdad363914b418cf06f71c97a13963dadd6/KakaoPay_QR_ro_Don_bone_juseo_1700208870136.png" width=300 height=300 />
