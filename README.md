@@ -56,4 +56,4 @@ Here are some ideas to get you started:
     - patreon https://www.patreon.com/j2doll
     - ko-fi https://ko-fi.com/j2doll
     - KakaoPay https://qr.kakaopay.com/FDVr2xBHP
-    <img src="https://gist.github.com/j2doll/8da2c94c766be8b066c8edc0ccc37a10/raw/d0c33cdad363914b418cf06f71c97a13963dadd6/KakaoPay_QR_ro_Don_bone_juseo_1700208870136.png" width=300 height=300 />
+    <img src="https://gist.github.com/j2doll/8da2c94c766be8b066c8edc0ccc37a10/raw/d0c33cdad363914b418cf06f71c97a13963dadd6/KakaoPay_QR_ro_Don_bone_juseo_1700208870136.png" width="25%" height="25%" />
