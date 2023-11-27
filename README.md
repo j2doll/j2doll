@@ -1,4 +1,4 @@
-# Hi there <img src="https://gist.github.com/j2doll/9f827711ba8b832d974a4f8e377bcf5a/raw/b6b323746310f5d98ae133148b7cba8f273505b3/kr.png" /> ```반갑습니다``` 👋
+# Hi there <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```반갑습니다``` 👋
 
 <!--
 
@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
   - **Jay Two's Lab** : https://github.com/JayTwoLab
 
-## Introduction <img src="https://gist.github.com/j2doll/9f827711ba8b832d974a4f8e377bcf5a/raw/b6b323746310f5d98ae133148b7cba8f273505b3/kr.png" /> ```소개```
+## Introduction <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```소개```
 
 - Personal introduction page(English) : https://j2doll.github.io/whoami
   - <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```개인 소개 페이지(한글)``` : https://j2doll.github.io/whoami/README.ko.html
   - Blog(Korean) <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```블로그(한글)``` : https://j2doll.tistory.com/
 
-## Contact <img src="https://gist.github.com/j2doll/9f827711ba8b832d974a4f8e377bcf5a/raw/b6b323746310f5d98ae133148b7cba8f273505b3/kr.png" /> ```연락처```
+## Contact <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```연락처```
 
 - :mailbox: Leave me a issue on GitHub. <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```깃허브에 이슈를 남겨 주세요.```
   - https://github.com/j2doll/discussion/issues
