@@ -27,10 +27,12 @@ Here are some ideas to get you started:
 - 🔭 The open source team I'm working on is: <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```제가 진행 중인 오픈소스 팀은 다음과 같습니다:```
   - **QtExcel** : https://github.com/QtExcel :zap: ```큐티 엑셀(xlsx) 라이브러리```
 
+   <a href="https://github.com/QtExcel" style="pointer-events: none;  cursor: default;">
     <img src="https://avatars.githubusercontent.com/u/46348934?s=200&v=4" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/QtExcel/QXlsx/master/markdown.data/QXlsx-Desktop.png" width="200px" height="100px" />
     <img src="https://raw.githubusercontent.com/QtExcel/Qxlnt/master/markdown-data/Concept-QXlnt.jpg" width="200px" height="100px" />
     <img src="https://raw.githubusercontent.com/QtExcel/Qlibxlsxwriter/master/markdown.data/logo.png" width="200px" height="100px" />
+   </a>
 
   - **Jay Two's Lab** : https://github.com/JayTwoLab :zap: ```제이투의 소프트웨어 연구소```
 
