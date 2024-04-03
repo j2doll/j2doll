@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 
   - **Jay Two's Lab** : https://github.com/JayTwoLab :zap: ```제이투의 소프트웨어 연구소```
     
-      - [QPing](https://github.com/JayTwoLab/QPing) Ping class for Qt 5 or 6 (without user elevation) :kr: Qt 5 또는 6 기반 계정 상승 필요없는 핑
-      - [wireshark-remote-command-win](https://github.com/JayTwoLab/wireshark-remote-command-win) Wireshark remote command for Windows :kr: 윈도우즈에서 와이어샤크를 이용한 원격 패킷 캡춰
-      - [json-downloader](https://github.com/JayTwoLab/json-downloader) File Downloader for Windows Console using json data. :kr: json 자료를 사용하는 윈도우즈 콘솔용 파일 다운로더
-      - [QSLogLib](https://github.com/JayTwoLab/QSLogLib) Log library for Qt 5 or 6 (based on SLogLib) :kr: Qt 5 또는 6 기반 로그 라이브러리
-      - [QTelnetServer](https://github.com/JayTwoLab/QTelnetServer) Telnet server for Qt 5 or 6 :kr: Qt 5 또는 6을 위한 텔넷 서버
-      - [ConvertU](https://github.com/JayTwoLab/ConvertU) URL+Korean Encoding :kr: URL+한글 인코딩
+      - [QPing](https://github.com/JayTwoLab/QPing) Ping class for Qt 5 or 6 (without user elevation) <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```Qt 5 또는 6 기반 계정 상승 필요없는 핑 기능```
+      - [wireshark-remote-command-win](https://github.com/JayTwoLab/wireshark-remote-command-win) Wireshark remote command for Windows <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```윈도우즈에서 와이어샤크를 이용한 원격 패킷 캡춰```
+      - [json-downloader](https://github.com/JayTwoLab/json-downloader) File Downloader for Windows Console using json data. <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```json 자료를 사용하는 윈도우즈 콘솔용 파일 다운로더```
+      - [QSLogLib](https://github.com/JayTwoLab/QSLogLib) Log library for Qt 5 or 6 (based on SLogLib) <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```Qt 5 또는 6 기반 로그 라이브러리```
+      - [QTelnetServer](https://github.com/JayTwoLab/QTelnetServer) Telnet server for Qt 5 or 6 <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```Qt 5 또는 6을 위한 텔넷 서버```
+      - [ConvertU](https://github.com/JayTwoLab/ConvertU) URL+Korean Encoding :kr: ```URL+한글 인코딩```
 
 ## Introduction <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```소개```
    
