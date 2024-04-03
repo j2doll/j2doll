@@ -25,26 +25,21 @@ Here are some ideas to get you started:
 ## Open Source <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```오픈 소스```
    
 - 🔭 The open source team I'm working on is: <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```제가 진행 중인 오픈소스 팀은 다음과 같습니다:```
-  - **QtExcel** : https://github.com/QtExcel :zap: ```큐티 엑셀(xlsx) 라이브러리``` [QXlsx](https://github.com/QtExcel/QXlsx) ![GitHub Repo stars](https://img.shields.io/github/stars/QtExcel/QXlsx?style=social)
-
-   <br/>
-   <a href="https://github.com/QtExcel" style="pointer-events: none;  cursor: default;">
-    <img src="https://avatars.githubusercontent.com/u/46348934?s=200&v=4" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/QtExcel/QXlsx/master/markdown.data/QXlsx-Desktop.png" width="200px" height="100px" />
-    <img src="https://raw.githubusercontent.com/QtExcel/Qxlnt/master/markdown-data/Concept-QXlnt.jpg" width="200px" height="100px" />
-    <img src="https://raw.githubusercontent.com/QtExcel/Qlibxlsxwriter/master/markdown.data/logo.png" width="200px" height="100px" />
-   </a>
-   <br/><br/>
+  - **QtExcel** : https://github.com/QtExcel :zap: ```큐티(Qt) 기반 엑셀(xlsx) 라이브러리```
+    
+       - [QXlsx](https://github.com/QtExcel/QXlsx) ![GitHub Repo stars](https://img.shields.io/github/stars/QtExcel/QXlsx?style=social) See [Handling Microsoft Excel file format](https://wiki.qt.io/Handling_Microsoft_Excel_file_format) for more information.
+       - [Qxlnt](https://github.com/QtExcel/Qxlnt) ![GitHub Repo stars](https://img.shields.io/github/stars/QtExcel/Qxlnt?style=social)
+       - [Qlibxlsxwriter](https://github.com/QtExcel/Qlibxlsxwriter) 
+       - [QSimpleXlsxWriter](https://github.com/QtExcel/QSimpleXlsxWriter) 
 
   - **Jay Two's Lab** : https://github.com/JayTwoLab :zap: ```제이투의 소프트웨어 연구소```
     
-   <br/>    
-   <a href="https://github.com/JayTwoLab" style="pointer-events: none;  cursor: default;">
-    <img src="https://github.com/JayTwoLab/QPing/raw/master/markdown-data/qping.png" width="200px" height="100px" />
-    <img src="https://github.com/JayTwoLab/wireshark-remote-command-win/raw/master/markdown.data/concept.jpg" width="200px" height="100px" />
-    <img src="https://github.com/j2doll/QSLogLib/raw/master/markdown.data/qsloglib1.jpg" width="200px" height="100px" />     
-   </a>
-   <br/><br/>
+      - [QPing](https://github.com/JayTwoLab/QPing) Ping class for Qt 5 or 6 (without user elevation) :kr: Qt 5 또는 6 기반 계정 상승 필요없는 핑
+      - [wireshark-remote-command-win](https://github.com/JayTwoLab/wireshark-remote-command-win) Wireshark remote command for Windows :kr: 윈도우즈에서 와이어샤크를 이용한 원격 패킷 캡춰
+      - [json-downloader](https://github.com/JayTwoLab/json-downloader) File Downloader for Windows Console using json data. :kr: json 자료를 사용하는 윈도우즈 콘솔용 파일 다운로더
+      - [QSLogLib](https://github.com/JayTwoLab/QSLogLib) Log library for Qt 5 or 6 (based on SLogLib) :kr: Qt 5 또는 6 기반 로그 라이브러리
+      - [QTelnetServer](https://github.com/JayTwoLab/QTelnetServer) Telnet server for Qt 5 or 6 :kr: Qt 5 또는 6을 위한 텔넷 서버
+      - [ConvertU](https://github.com/JayTwoLab/ConvertU) URL+Korean Encoding :kr: URL+한글 인코딩
 
 ## Introduction <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```소개```
    
