@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 ## Open Source <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```오픈 소스```
    
 - 🔭 The open source team I'm working on is: <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```제가 진행 중인 오픈소스 팀은 다음과 같습니다:```
-  - **QtExcel** : https://github.com/QtExcel :zap: ```큐티 엑셀(xlsx) 라이브러리```
+  - **QtExcel** : https://github.com/QtExcel :zap: ```큐티 엑셀(xlsx) 라이브러리``` [QXlsx](https://github.com/QtExcel/QXlsx) ![GitHub Repo stars](https://img.shields.io/github/stars/QtExcel/QXlsx?style=social)
 
+   <br/>
    <a href="https://github.com/QtExcel" style="pointer-events: none;  cursor: default;">
     <img src="https://avatars.githubusercontent.com/u/46348934?s=200&v=4" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/QtExcel/QXlsx/master/markdown.data/QXlsx-Desktop.png" width="200px" height="100px" />
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 
   - **Jay Two's Lab** : https://github.com/JayTwoLab :zap: ```제이투의 소프트웨어 연구소```
     
+   <br/>    
    <a href="https://github.com/JayTwoLab" style="pointer-events: none;  cursor: default;">
     <img src="https://github.com/JayTwoLab/QPing/raw/master/markdown-data/qping.png" width="200px" height="100px" />
     <img src="https://github.com/JayTwoLab/wireshark-remote-command-win/raw/master/markdown.data/concept.jpg" width="200px" height="100px" />
