@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 - 🔭 The open source team I'm working on is: <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```제가 진행 중인 오픈소스 팀은 다음과 같습니다:```
   - **QtExcel** : https://github.com/QtExcel :zap: ```큐티(Qt) 기반 엑셀(xlsx) 라이브러리```
     
-       - [QXlsx](https://github.com/QtExcel/QXlsx) ![GitHub Repo stars](https://img.shields.io/github/stars/QtExcel/QXlsx?style=social) See [Handling Microsoft Excel file format](https://wiki.qt.io/Handling_Microsoft_Excel_file_format) for more information.
-       - [Qxlnt](https://github.com/QtExcel/Qxlnt) ![GitHub Repo stars](https://img.shields.io/github/stars/QtExcel/Qxlnt?style=social)
+       - [QXlsx](https://github.com/QtExcel/QXlsx) ![GitHub Repo stars](https://img.shields.io/github/stars/QtExcel/QXlsx?style=social)
+            - See [Handling Microsoft Excel file format](https://wiki.qt.io/Handling_Microsoft_Excel_file_format) for more information.
+       - [Qxlnt](https://github.com/QtExcel/Qxlnt) 
        - [Qlibxlsxwriter](https://github.com/QtExcel/Qlibxlsxwriter) 
        - [QSimpleXlsxWriter](https://github.com/QtExcel/QSimpleXlsxWriter) 
 
