@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   - **QtExcel** : https://github.com/QtExcel :zap: ```큐티(Qt) 기반 엑셀(xlsx) 라이브러리```
     
        - [QXlsx](https://github.com/QtExcel/QXlsx) ![GitHub Repo stars](https://img.shields.io/github/stars/QtExcel/QXlsx?style=social)
-            - See [Handling Microsoft Excel file format](https://wiki.qt.io/Handling_Microsoft_Excel_file_format) for more information.
+            - See [Handling Microsoft Excel file format (Qt wiki)](https://wiki.qt.io/Handling_Microsoft_Excel_file_format) for more information.
        - [Qxlnt](https://github.com/QtExcel/Qxlnt) 
        - [Qlibxlsxwriter](https://github.com/QtExcel/Qlibxlsxwriter) 
        - [QSimpleXlsxWriter](https://github.com/QtExcel/QSimpleXlsxWriter) 
