@@ -21,7 +21,7 @@
 ## Introduction <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```소개```
    
 - Personal portfolio page (English) : https://j2doll.github.io/portfolio
-- <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```개인 소개 페이지 (한글)``` : https://j2doll.github.io/portfolio/README.ko.html
+- <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```포트폴리오 페이지 (한글)``` : https://j2doll.github.io/portfolio/README.ko.html
 - <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```블로그 (한글)``` : https://j2doll.tistory.com/
 
 ## Contact <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```연락처```
