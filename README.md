@@ -33,9 +33,8 @@
 
 - :mailbox: <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```한국어로 연락``` Contact me in Korean
    - https://j2doll.tistory.com/guestbook ```블로그에 방명록을 남겨 주세요. 공개하기 싫은 글은 비밀댓글로 남겨 주세요.```
-   - https://forms.gle/QFH6Gu2ZHBAa9k637 ```문의사항 제출``` 
-   - https://forum.qt.io/category/59/korean ```한국어 Qt 포럼```
-
+   - https://forms.gle/QFH6Gu2ZHBAa9k637 ```문의사항 제출 (구글 설문서)``` 
+   
 ## Sponsor <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```후원```
   - I am currently earning income for a commercial project. I'm looking forward to your patronage so that I can be more concerned with open source projects. <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```저는 현재 상업적인 프로젝트로 수입을 얻고 있습니다. 제가 오픈소스 프로젝트에 좀더 신경을 쓸 수 있도록, 당신의 후원을 부탁드릴께요.```
     - github : https://github.com/sponsors/j2doll
