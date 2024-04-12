@@ -14,10 +14,6 @@
 
   - **Jay Two's Lab** : https://github.com/JayTwoLab :zap: ```제이투의 소프트웨어 연구소```
     
-      - [QPing](https://github.com/JayTwoLab/QPing) Ping class for Qt 5 or 6 (without user elevation) <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```Qt 네트워크 핑 기능```
-      - [QTelnetServer](https://github.com/JayTwoLab/QTelnetServer) Telnet server for Qt 5 or 6 <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```Qt 텔넷 서버```
-      - [QSLogLib](https://github.com/JayTwoLab/QSLogLib) Log library for Qt 5 or 6 (based on SLogLib) <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```Qt 로그 라이브러리```
-
 ## Introduction <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```소개```
    
 - Personal portfolio page (English) : https://j2doll.github.io/portfolio
