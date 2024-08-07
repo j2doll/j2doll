@@ -15,9 +15,9 @@
   - **Jay Two's Lab** : https://github.com/JayTwoLab :zap: ```제이투의 소프트웨어 연구소```
     
 ## Introduction [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```소개```
-   
-- Personal portfolio page (English) : https://j2doll.github.io/portfolio
-- [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```포트폴리오 페이지 (한글)``` : https://j2doll.github.io/portfolio/README.ko.html
+
+- github : https://github.con/j2doll/
+
 - [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```블로그 (한글)``` : https://j2doll.tistory.com/
 
 ## Contact [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```연락처```
