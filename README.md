@@ -16,7 +16,7 @@
     
 ## Introduction [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```소개```
 
-- github : https://github.con/j2doll/
+- github : https://github.com/j2doll/
 
 - [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```블로그 (한글)``` : https://j2doll.tistory.com/
 
