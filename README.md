@@ -8,17 +8,19 @@
 ## Open Source <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```오픈 소스```
    
 - 🔭 The open source team I'm working on is: [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```제가 진행 중인 오픈소스 팀은 다음과 같습니다:```
-  - **QtExcel** : https://github.com/QtExcel :zap: ```Qt용 엑셀(xlsx) 라이브러리```
+  - :zap: **QtExcel** : https://github.com/QtExcel  [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```Qt용 엑셀(xlsx) 라이브러리```
     
-       - [![QXlsx](https://img.shields.io/badge/QtExcel-QXlsx-blue) ![GitHub Repo stars](https://img.shields.io/github/stars/QtExcel/QXlsx?style=social)](https://github.com/QtExcel/QXlsx) : See [Handling Microsoft Excel file format (Qt wiki)](https://wiki.qt.io/Handling_Microsoft_Excel_file_format) for more information.
+       - [![QXlsx](https://img.shields.io/badge/QtExcel-QXlsx-blue)  ![GitHub Repo stars](https://img.shields.io/github/stars/QtExcel/QXlsx?style=social)](https://github.com/QtExcel/QXlsx)
+       - See [Handling Microsoft Excel file format (Qt wiki)](https://wiki.qt.io/Handling_Microsoft_Excel_file_format) for more information.
 
-  - **Jay Two's Lab** : https://github.com/JayTwoLab :zap: ```제이투의 소프트웨어 연구소```
+  - :zap: **Jay Two's Lab** : https://github.com/JayTwoLab [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```제이투의 소프트웨어 연구소```
+       - Qt, C++, batchfile, powershell, etc..
     
 ## Introduction [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```소개```
 
 - github : https://github.com/j2doll/
 
-- [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```블로그 (한글)``` : https://j2doll.tistory.com/
+- [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```Blog (Korean)``` : https://j2doll.tistory.com/
 
 ## Contact [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```연락처```
 
@@ -27,7 +29,7 @@
   - I can not speak English well. Please speak very, very easy English.
   - Please write the issues for public projects in the public project issues. [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```공개 프로젝트의 이슈는 해당 프로젝트의 이슈란에 적어 주세요.``` 
 
-- :mailbox: [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```한국어로 연락``` Contact me in Korean
+- :mailbox: [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```한국어로 연락하는 방법``` How to contact me in Korean
    - ```블로그에 방명록을 남겨 주세요. 공개하기 싫은 글은 비밀댓글로 남겨 주세요.``` https://j2doll.tistory.com/guestbook
    - ```문의사항 있으시면 제공해 주세요. (구글 설문서 양식)``` https://forms.gle/QFH6Gu2ZHBAa9k637
    
