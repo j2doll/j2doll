@@ -14,7 +14,7 @@
        - See [Handling Microsoft Excel file format (Qt wiki)](https://wiki.qt.io/Handling_Microsoft_Excel_file_format) for more information.
 
   - :zap: **Jay Two's Lab** : https://github.com/JayTwoLab [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```제이투의 소프트웨어 연구소```
-       - Qt, C++, batchfile, powershell, etc..
+       - This is a collection of open source projects that I'm working on. [![](https://j2doll.github.io/j2doll/img/kr.png)](#) `제가 진행하는 오픈 소스 프로젝트 모음입니다.`
     
 ## Introduction [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```소개```
 
