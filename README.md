@@ -1,4 +1,4 @@
-# Hi there <img src="https://j2doll.github.io/j2doll/img/kr.png" /> (Korean) ```반갑습니다``` 👋
+# Hi there 👋 <img src="https://j2doll.github.io/j2doll/img/kr.png" /> <sub> (Korean) `반갑습니다` </sub> 👋
 
 - :monkey: Hi! My alias name is j2doll. (aka Jay Two) [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```안녕하세요! 제 별칭은 Jay Two 입니다.```
   - My name is Korean, and it is not easy for foreigners to pronounce it. So I recommend you call me Jay Two. 
