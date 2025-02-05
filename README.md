@@ -17,11 +17,11 @@
 
   - :zap: **Jay Two's Lab** : https://github.com/JayTwoLab [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```제이투의 소프트웨어 연구소```
        - This is a collection of open source projects that I'm working on. [![](https://j2doll.github.io/j2doll/img/kr.png)](#) `제가 진행하는 오픈 소스 프로젝트 모음입니다.`
-       - [![QPing](https://img.shields.io/badge/JayTwoLab-QPing-blue) ![GitHub Repo stars](https://img.shields.io/github/stars/JayTwoLab/QPing?style=social)](https://github.com/JayTwoLab/QPing)
-       - [![QSLogLib](https://img.shields.io/badge/JayTwoLab-QSLogLib-blue) ![GitHub Repo stars](https://img.shields.io/github/stars/JayTwoLab/QSLogLib?style=social)](https://github.com/JayTwoLab/QSLogLib)
-       - [![wireshark_remote_command_win](https://img.shields.io/badge/JayTwoLab-wireshark_remote_command_win-blue) ![GitHub Repo stars](https://img.shields.io/github/stars/JayTwoLab/wireshark-remote-command-win?style=social)](https://github.com/JayTwoLab/wireshark-remote-command-win)
-       - [![QTelnetServer](https://img.shields.io/badge/JayTwoLab-QTelnetServer-blue) ![GitHub Repo stars](https://img.shields.io/github/stars/JayTwoLab/QTelnetServer?style=social)](https://github.com/JayTwoLab/QTelnetServer)
-       - [![json_downloader_poweshell](https://img.shields.io/badge/JayTwoLab-json_downloader_poweshell-blue) ![GitHub Repo stars](https://img.shields.io/github/stars/JayTwoLab/json-downloader-poweshell?style=social)](https://github.com/JayTwoLab/json-downloader-poweshell)
+       - [![QPing](https://img.shields.io/badge/JayTwoLab-QPing-blue) ](https://github.com/JayTwoLab/QPing)
+       - [![QSLogLib](https://img.shields.io/badge/JayTwoLab-QSLogLib-blue) ](https://github.com/JayTwoLab/QSLogLib)
+       - [![wireshark_remote_command_win](https://img.shields.io/badge/JayTwoLab-wireshark_remote_command_win-blue) ](https://github.com/JayTwoLab/wireshark-remote-command-win)
+       - [![QTelnetServer](https://img.shields.io/badge/JayTwoLab-QTelnetServer-blue) ](https://github.com/JayTwoLab/QTelnetServer)
+       - [![json_downloader_poweshell](https://img.shields.io/badge/JayTwoLab-json_downloader_poweshell-blue) ](https://github.com/JayTwoLab/json-downloader-poweshell)
 
 <br />    
 
