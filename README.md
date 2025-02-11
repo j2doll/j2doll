@@ -1,4 +1,4 @@
-# Hi there 👋 <img src="https://j2doll.github.io/j2doll/img/kr.png" /> <sub> (Korean) `반갑습니다` </sub> 👋
+# Hi there <sub> 👋 </sub> <img src="https://j2doll.github.io/j2doll/img/kr.png" /> <sub> (Korean) `반갑습니다` </sub> <sub> 👋 </sub>
 
 - :monkey: Hi! My alias name is j2doll. (aka Jay Two) [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```안녕하세요! 제 별칭은 Jay Two 입니다.```
   - My name is Korean, and it is not easy for foreigners to pronounce it. So I recommend you call me Jay Two. 
@@ -7,7 +7,7 @@
 
 <br />
 
-## Open Source <img src="https://j2doll.github.io/j2doll/img/kr.png" /> ```오픈 소스```
+## Open Source <img src="https://j2doll.github.io/j2doll/img/kr.png" /> <sub> ```오픈 소스``` </sub>
    
 - 🔭 The open source team I'm working on is: [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```제가 진행 중인 오픈소스 팀은 다음과 같습니다:```
   - :zap: **QtExcel** : https://github.com/QtExcel Excel libraries in Qt [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```Qt용 엑셀(xlsx) 라이브러리```
@@ -17,7 +17,7 @@
 
   <br/>
   
-  - :zap: **Jay Two's Lab** : https://github.com/JayTwoLab [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```제이투의 소프트웨어 연구소```
+  - :zap: **Jay Two's Software Lab** : https://github.com/JayTwoLab [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```제이투의 소프트웨어 연구소```
        - This is a collection of open source projects that I'm working on. [![](https://j2doll.github.io/j2doll/img/kr.png)](#) `제가 진행하는 오픈 소스 프로젝트 모음입니다.`
        - `Qt` : [![QPing](https://img.shields.io/badge/JayTwoLab-QPing-blue)](https://github.com/JayTwoLab/QPing)   [![QSLogLib](https://img.shields.io/badge/JayTwoLab-QSLogLib-blue)](https://github.com/JayTwoLab/QSLogLib)   [![QTelnetServer](https://img.shields.io/badge/JayTwoLab-QTelnetServer-blue)](https://github.com/JayTwoLab/QTelnetServer)
        - `C++` : [![to_string_floating_type](https://img.shields.io/badge/JayTwoLab-to_string_floating_type-blue) ](https://github.com/JayTwoLab/to_string-floating-type)
@@ -28,7 +28,7 @@
 
 <br />    
 
-## Introduction [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```소개```
+## Introduction [![](https://j2doll.github.io/j2doll/img/kr.png)](#) <sub> ```소개``` </sub>
 
 - github : https://github.com/j2doll/
 
@@ -36,7 +36,7 @@
 
 <br />
 
-## Contact [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```연락처```
+## Contact [![](https://j2doll.github.io/j2doll/img/kr.png)](#) <sub> ```연락처``` </sub>
 
 - :mailbox: Leave me a issue on GitHub. [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```깃허브에 이슈를 남겨 주세요.```
   - https://github.com/j2doll/discussion/issues
