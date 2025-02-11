@@ -19,9 +19,10 @@
   
   - :zap: **Jay Two's Lab** : https://github.com/JayTwoLab [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```제이투의 소프트웨어 연구소```
        - This is a collection of open source projects that I'm working on. [![](https://j2doll.github.io/j2doll/img/kr.png)](#) `제가 진행하는 오픈 소스 프로젝트 모음입니다.`
-       - Json : [![json_downloader_poweshell](https://img.shields.io/badge/JayTwoLab-json_downloader_poweshell-blue) ](https://github.com/JayTwoLab/json-downloader-poweshell) 
-       - Qt : [![QPing](https://img.shields.io/badge/JayTwoLab-QPing-blue) ](https://github.com/JayTwoLab/QPing) [![QSLogLib](https://img.shields.io/badge/JayTwoLab-QSLogLib-blue) ](https://github.com/JayTwoLab/QSLogLib) ... 
-       - Cmd : [![wireshark_remote_command_win](https://img.shields.io/badge/JayTwoLab-wireshark_remote_command_win-blue) ](https://github.com/JayTwoLab/wireshark-remote-command-win)
+       - `C++` : ![to_string_floating_type](https://img.shields.io/badge/JayTwoLab-to_string_floating_type-blue)  ![simple_ini_cpp](https://img.shields.io/badge/JayTwoLab-simple_ini_cpp-blue)  ![method_chaining_cpp](https://img.shields.io/badge/JayTwoLab-method_chaining_cpp-blue)  
+       - `json` : [![json_downloader_poweshell](https://img.shields.io/badge/JayTwoLab-json_downloader_poweshell-blue)](https://github.com/JayTwoLab/json-downloader-poweshell)  [![json_downloader](https://img.shields.io/badge/JayTwoLab-json_downloader-blue)](https://github.com/JayTwoLab/json-downloader)
+       - `Qt` : [![QPing](https://img.shields.io/badge/JayTwoLab-QPing-blue)](https://github.com/JayTwoLab/QPing)   [![QSLogLib](https://img.shields.io/badge/JayTwoLab-QSLogLib-blue)](https://github.com/JayTwoLab/QSLogLib)  ![QTelnetServer](https://img.shields.io/badge/JayTwoLab-QTelnetServer-blue)  
+       - `cmd` : [![wireshark_remote_command_win](https://img.shields.io/badge/JayTwoLab-wireshark_remote_command_win-blue) ](https://github.com/JayTwoLab/wireshark-remote-command-win)
        - Etc.  `등등`
 
 <br />    
