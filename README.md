@@ -31,7 +31,7 @@
 
 <br />
 
-## Contact [![](https://j2doll.github.io/j2doll/img/kr.png)](#) <sub> ```연락처``` </sub>
+## Contact [![](https://j2doll.github.io/j2doll/img/kr.png)](#) <sub> ```연락``` </sub>
 
 - :mailbox: Leave me a issue on GitHub. [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```깃허브에 이슈를 남겨 주세요.```
   - https://github.com/j2doll/discussion/issues
@@ -41,6 +41,9 @@
 - :mailbox: [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```한국어로 연락하는 방법``` How to contact me in Korean
    - ```블로그에 방명록을 남겨 주세요. 공개하기 싫은 글은 비밀댓글로 남겨 주세요.``` https://j2doll.tistory.com/guestbook
    - ```문의사항 있으시면 제공해 주세요. (구글 설문서 양식)``` https://forms.gle/QFH6Gu2ZHBAa9k637
+
+- :mailbox: If you have any questions about the commercial project I carried out, please contact us by email or by GitHub issue.
+   - [![](https://j2doll.github.io/j2doll/img/kr.png)](#) `제가 진행한 상업용 프로젝트에 대한 문의는 이메일 또는 깃허브 이슈로 문의 부탁 드립니다.`
 
 <br />
 
