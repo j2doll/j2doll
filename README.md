@@ -22,8 +22,6 @@
        - [![Qt](https://img.shields.io/badge/JayTwoLab-Qt-blue)](https://github.com/orgs/JayTwoLab/repositories?language=qt)  [![C++](https://img.shields.io/badge/JayTwoLab-C%2B%2B-blue)](https://github.com/orgs/JayTwoLab/repositories?language=c%2B%2B)  [![Python](https://img.shields.io/badge/JayTwoLab-Python-blue)](https://github.com/orgs/JayTwoLab/repositories?language=python)  [![Powershell](https://img.shields.io/badge/JayTwoLab-Powershell-blue)](https://github.com/orgs/JayTwoLab/repositories?language=powershell) 
 
 
-- ![Star Count](STAR_COUNT.md)
-
 <br />    
 
 ## Introduction [![](https://j2doll.github.io/j2doll/img/kr.png)](#) <sub> ```소개``` </sub>
