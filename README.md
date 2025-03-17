@@ -1,4 +1,4 @@
-# Hi there <sub> 👋 </sub> <img src="https://j2doll.github.io/j2doll/img/kr.png" />
+# Hi there <sub> 👋 </sub> 
 
 - :monkey: Hi! My alias name is j2doll. (aka Jay Two) [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```안녕하세요! 제 별칭은 Jay Two 입니다.```
   - My name is Korean, and it is not easy for foreigners to pronounce it. So I recommend you call me Jay Two. 
@@ -7,7 +7,7 @@
 
 <br />
 
-## Open Source <img src="https://j2doll.github.io/j2doll/img/kr.png" /> 
+## Open Source
    
 - 🔭 The open source team I'm working on is: [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```제가 진행 중인 오픈소스 팀은 다음과 같습니다:```
   - :zap: **QtExcel** : https://github.com/QtExcel Excel libraries in Qt [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```Qt용 엑셀(xlsx) 라이브러리```
@@ -24,7 +24,7 @@
 
 <br />    
 
-## Introduction [![](https://j2doll.github.io/j2doll/img/kr.png)](#) 
+## Introduction 
 
 - github : https://github.com/j2doll/
 
@@ -32,7 +32,7 @@
 
 <br />
 
-## Contact [![](https://j2doll.github.io/j2doll/img/kr.png)](#) 
+## Contact 
 
 - :mailbox: Leave me a issue on GitHub. [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```깃허브에 이슈를 남겨 주세요.```
   - https://github.com/j2doll/discussion/issues
@@ -48,7 +48,7 @@
 
 <br />
 
-## Sponsor [![](https://j2doll.github.io/j2doll/img/kr.png)](#) 
+## Sponsor 
   - I am currently earning income for a commercial project. I'm looking forward to your patronage so that I can be more concerned with open source projects. [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```저는 현재 상업적인 프로젝트로 수입을 얻고 있습니다. 제가 오픈소스 프로젝트에 좀더 신경을 쓸 수 있도록, 당신의 후원을 부탁드릴께요.```
       - [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/yukrf5x)
       -  :octocat:  Github : https://github.com/sponsors/j2doll
