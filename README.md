@@ -9,18 +9,17 @@
 
 ## Open Source
    
-- 🔭 The open source team I'm working on is: [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```제가 진행 중인 오픈소스 팀은 다음과 같습니다:```
-  - :zap: **QtExcel** : **[https://github.com/QtExcel](https://github.com/QtExcel)**
-       - Excel libraries in Qt [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```Qt용 엑셀(xlsx) 라이브러리```
-       - See [Handling Microsoft Excel file format (Qt wiki)](https://wiki.qt.io/Handling_Microsoft_Excel_file_format) for more information.
-       - <p align="left"> <a href="https://github.com/QtExcel?tab=repositories&sort=stargazers"> <img alt="total stars" title="Total stars on GitHub QtExcel" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=005A9C&labelColor=007ACC&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/QtExcel" /> </a> </p> 
+- 🔭 The open source team I'm working on is: [![](https://j2doll.github.io/j2doll/img/kr.png)](#) `제가 진행 중인 오픈소스 팀은 다음과 같습니다:`
+
+  ### :zap: QtExcel : https://github.com/QtExcel 
+     - Excel libraries in Qt [![](https://j2doll.github.io/j2doll/img/kr.png)](#) `Qt용 엑셀(xlsx) 라이브러리`
+     - <p align="left"> <a href="https://github.com/QtExcel?tab=repositories&sort=stargazers"> <img alt="total stars" title="Total stars on GitHub QtExcel" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=005A9C&labelColor=007ACC&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/QtExcel" /> </a> </p> 
 
   <br/>
   
-  - :zap: **Jay Two's Software Lab** : **[https://github.com/JayTwoLab](https://github.com/JayTwoLab)**
-       - Collection of open source projects [![](https://j2doll.github.io/j2doll/img/kr.png)](#) `오픈 소스 프로젝트 모음`
-       - [![Qt](https://img.shields.io/badge/JayTwoLab-Qt-blue)](https://github.com/orgs/JayTwoLab/repositories?language=qt)  [![C++](https://img.shields.io/badge/JayTwoLab-C%2B%2B-blue)](https://github.com/orgs/JayTwoLab/repositories?language=c%2B%2B)  [![Python](https://img.shields.io/badge/JayTwoLab-Python-blue)](https://github.com/orgs/JayTwoLab/repositories?language=python)  [![Powershell](https://img.shields.io/badge/JayTwoLab-Powershell-blue)](https://github.com/orgs/JayTwoLab/repositories?language=powershell) 
-       - <p align="left"> <a href="https://github.com/JayTwoLab?tab=repositories&sort=stargazers"> <img alt="total stars" title="Total stars on GitHub JayTwoLab" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=005A9C&labelColor=007ACC&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/JayTwoLab" /> </a> </p> 
+  ### :zap: Jay Two's Software Lab : https://github.com/JayTwoLab 
+     - Collection of open source projects [![](https://j2doll.github.io/j2doll/img/kr.png)](#) `오픈 소스 프로젝트 모음`  
+     - <p align="left"> <a href="https://github.com/JayTwoLab?tab=repositories&sort=stargazers"> <img alt="total stars" title="Total stars on GitHub JayTwoLab" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=005A9C&labelColor=007ACC&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/JayTwoLab" /> </a> </p> 
 
 <br />    
 
