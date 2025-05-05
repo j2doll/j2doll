@@ -12,7 +12,7 @@
 - 🔭 The open source team I'm working on is: [![](https://j2doll.github.io/j2doll/img/kr.png)](#) `제가 진행 중인 오픈소스 팀은 다음과 같습니다:`
 
   ### :zap: QtExcel : https://github.com/QtExcel 
-     - Excel libraries in Qt [![](https://j2doll.github.io/j2doll/img/kr.png)](#) `Qt용 엑셀(xlsx) 라이브러리`
+     - Excel libraries in Qt [![](https://j2doll.github.io/j2doll/img/kr.png)](#) `큐트용 엑셀 라이브러리`
      - <p align="left"> <a href="https://github.com/QtExcel?tab=repositories&sort=stargazers"> <img alt="total stars" title="Total stars on GitHub QtExcel" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&style=flat&color=4A4A4A&labelColor=555555&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/QtExcel" /> </a> </p> 
 
   <br/>
