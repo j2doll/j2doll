@@ -3,7 +3,7 @@
 - :monkey: Hi! My alias name is j2doll. (aka Jay Two) [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```안녕하세요! 제 별칭은 Jay Two 입니다.```
   - My name is Korean, and it is not easy for foreigners to pronounce it. So I recommend you call me Jay Two. 
 
-- I am a software programmer. [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```저는 소프트웨어 프로그래머 입니다.```
+- I am a software programmer from South Korea. [![](https://j2doll.github.io/j2doll/img/kr.png)](#) ```저는 대한민국의 소프트웨어 프로그래머 입니다.```
 
 <br />
 
